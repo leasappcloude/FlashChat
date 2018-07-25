@@ -23,7 +23,6 @@ class ChatViewController: UIViewController, UITableViewDelegate, UITableViewData
     @IBOutlet var messageTableView: UITableView!
     
     
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         
